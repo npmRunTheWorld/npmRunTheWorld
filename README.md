@@ -3,7 +3,7 @@
 <table>
     <tr style="height: 300px;">
         <td style="width: 50%;">
-            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="height: 300px;"/>
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="height: 500px; object-fit: cover; width: 100%;"/>
         </td>
         <td style="width: 50%;">
             <div>
