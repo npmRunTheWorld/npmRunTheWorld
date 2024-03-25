@@ -6,9 +6,7 @@
             <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="height: 100%; object-fit: cover; width: 100%;"/>
         </td>
         <td style="width: 50%;">
-            <div style="width: 100px;">
-                <span>Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel.</span>
-            </div>
+            Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel
         </td>
     </tr>
 </table>
