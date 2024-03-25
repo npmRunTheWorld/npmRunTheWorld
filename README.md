@@ -6,7 +6,7 @@
             <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/images/vue.png" />
         </td>
     </tr>
 </table>
