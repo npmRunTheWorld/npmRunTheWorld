@@ -1,7 +1,7 @@
 # Hi there, I'm Md A Faisal! 👋
 
 Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel.
-
+![Dev](https://github.com/acej0k3r/acej0k3r/blob/main/videos/giphy.gif)
 ## 🚀 About Me
 
 - 💻 Frontend Developer, Full Stack Enthusiast
