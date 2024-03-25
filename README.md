@@ -1,12 +1,12 @@
 ## Hi there, I'm Md A Faisal! 👋
 
 <div>
-    <div style="height: 100%; display: flex;">
-         <div style="display: flex; width: 100px !important;">
-            Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel
-        </div>
+    <div style="height: 100%; display: flex;">   
         <div style="display: flex; width: 50%;">
             <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="height: 500px; object-fit: cover; width: 500px;"/>
+        </div>
+        <div style="display: flex; width: 100px !important;">
+            Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel
         </div>
     </div>
 </div>
