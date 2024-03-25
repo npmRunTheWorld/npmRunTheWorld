@@ -10,7 +10,7 @@
         </td>
     </tr>
 </table>
-![Dev]()
+
 
 Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel.
 
