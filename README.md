@@ -6,13 +6,13 @@
             <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky"/>
         </td>
         <td>
-            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/images/vue.png" />
+            <div>
+                <p>Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel.</p>
+            </div>
         </td>
     </tr>
 </table>
 
-
-Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel.
 
 ### About Me
 
