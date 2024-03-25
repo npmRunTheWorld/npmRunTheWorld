@@ -1,26 +1,27 @@
-# Hi there, I'm Md A Faisal! 👋
+## Hi there, I'm Md A Faisal! 👋
 
+![Dev](https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif)
 Welcome to my GitHub profile! I'm a passionate Frontend Developer with experience in Full Stack Development, specializing in the MERN stack. I also have expertise in Next.js and Nuxt.js with Vue.js 3, as well as experience working with PHP frameworks like Laravel.
-![Dev](https://github.com/acej0k3r/acej0k3r/blob/main/videos/giphy.gif)
-## 🚀 About Me
+
+### 🚀 About Me
 
 - 💻 Frontend Developer, Full Stack Enthusiast
 - 🌱 Exploring Next.js, Nuxt.js, and Vue.js 3
 - 🔍 Always eager to learn and implement new technologies
 - 💼 Open to collaboration on exciting projects
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Vue.js, React.js
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Frameworks**: Next.js, Nuxt.js, Laravel
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mdafaisal96/) to discuss any exciting opportunities or projects.
 
-## 🌟 Skills
+### 🌟 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
