@@ -1,9 +1,9 @@
 ## Hi there, I'm Md A Faisal! 👋
 
 <table>
-    <tr style="height: 30%;">
+    <tr style="height: 300px;">
         <td style="width: 50%;">
-            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="object-fit: cover;"/>
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="height: 300px;"/>
         </td>
         <td style="width: 50%;">
             <div>
