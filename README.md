@@ -1,7 +1,7 @@
 ## Hi there, I'm Md A Faisal! 👋
 
 <table>
-    <tr>
+    <tr style="height: 30%;">
         <td style="width: 50%;">
             <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="object-fit: cover;"/>
         </td>
