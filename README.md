@@ -1,6 +1,6 @@
 ## Hi there, I'm Md A Faisal! 👋
 
-<table>
+<table align="center">
     <tr style="height: 100%; display: flex;">
           <td style="display: flex; width: 50%;">
             <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/ducky.gif" alt="ducky" style="height: 500px; object-fit: cover; width: 500px;"/>
