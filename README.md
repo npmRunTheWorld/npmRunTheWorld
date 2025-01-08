@@ -33,6 +33,14 @@ Welcome to my digital workspace! I'm a seasoned **Full Stack Engineer**, and lif
 - **Senior Full Stack Engineer**: Boosted CMS performance by 1000% at Conex Digital LLC through innovative use of modern frameworks like Vue 3 and Nuxt 3.
 - **Full Stack Developer**: At AceJokerCapital, I drove SEO optimization to perfection and launched market-ready products, including apps with 10,000+ downloads.
 
+<table align="center">
+    <tr style="height: 100%; display: flex;">
+          <td style="display: flex; width: 50%;">
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/fixingbugInprod.gif" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
+        </td>
+    </tr>
+</table>
+
 ---
 
 ### 🌱 Beyond Code
