@@ -11,27 +11,27 @@ Welcome to my digital workspace! I'm a seasoned **Full Stack Engineer**, and lif
 
 ---
 
-### 🚀 About Me
-- 💡 **Visionary Developer**: I specialize in architecting robust, secure, and efficient software solutions tailored for growth and scalability.
-- 🌐 **Full Stack Wizard**: From crafting seamless front-end interfaces with Vue and React to engineering powerful back-end systems using Node.js and Laravel, I thrive across the full spectrum of development.
-- 📊 **Data Enthusiast**: Proficient in managing databases like PostgreSQL, MongoDB, and OracleSQL, ensuring data integrity and performance are never compromised.
-- 🎨 **Innovative Designer**: I have a knack for blending function with form, creating user-friendly applications that delight end users.
+### About Me
+- **Visionary Developer**: I specialize in architecting robust, secure, and efficient software solutions tailored for growth and scalability.
+- **Full Stack Wizard**: From crafting seamless front-end interfaces with Vue and React to engineering powerful back-end systems using Node.js and Laravel, I thrive across the full spectrum of development.
+- **Data Enthusiast**: Proficient in managing databases like PostgreSQL, MongoDB, and OracleSQL, ensuring data integrity and performance are never compromised.
+- **Innovative Designer**: I have a knack for blending function with form, creating user-friendly applications that delight end users.
 
 > *"Technology isn’t just about solving problems; it’s about anticipating them with wisdom and designing systems that inspire confidence in the future."*
 
 ---
 
-### 🔧 My Toolbox
+### My Toolbox
 - **Languages**: JavaScript, TypeScript, Python, Java, C++
 - **Frameworks**: React, Vue 3, Nuxt, Next.js, Laravel, Sass
 - **DevOps**: Docker, NGINX, Vercel, GCP, Digital Ocean
 - **Database Technologies**: PostgreSQL, MySQL, MongoDB, Sanity
 ---
 
-### 🌟 Highlights
-- 🚀 **CTO at Roshoon**: Leading the development of cutting-edge fintech software while mentoring engineering teams and shaping architectural standards.
-- 🎨 **Senior Full Stack Engineer**: Boosted CMS performance by 1000% at Conex Digital LLC through innovative use of modern frameworks like Vue 3 and Nuxt 3.
-- 📈 **Full Stack Leader**: At AceJokerCapital, I drove SEO optimization to perfection and launched market-ready products, including apps with 10,000+ downloads.
+### Highlights
+- **CTO at Roshoon**: Leading the development of cutting-edge fintech software while mentoring engineering teams and shaping architectural standards.
+- **Senior Full Stack Engineer**: Boosted CMS performance by 1000% at Conex Digital LLC through innovative use of modern frameworks like Vue 3 and Nuxt 3.
+- **Full Stack Developer**: At AceJokerCapital, I drove SEO optimization to perfection and launched market-ready products, including apps with 10,000+ downloads.
 
 ---
 
