@@ -44,14 +44,14 @@ Welcome to my digital workspace! I'm a seasoned **Full Stack Engineer**, and lif
 
 ---
 
-### 🌱 Beyond Code
+### Beyond Code
 When I’m not coding, I’m exploring ways to innovate, inspire, and connect with others in the tech community. I believe in continuous growth—both personal and professional—and strive to mentor and be mentored. 
 
 > *"Great systems are built on the foundation of teamwork, curiosity, and the courage to think differently."*
 
 ---
 
-### 📬 Let’s Connect
+### Let’s Connect
 - **Email**: [Mda.faisal95@gmail.com](mailto:Mda.faisal95@gmail.com)
 - **LinkedIn**: [linkedin.com/in/md-a-faisal-2b3070139](https://www.linkedin.com/in/md-a-faisal-2b3070139/)
 - **Portfolio**: [My Work](https://faisals-portfolio.netlify.app)
