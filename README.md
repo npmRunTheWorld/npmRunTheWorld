@@ -1,7 +1,7 @@
 <table align="center">
     <tr style="height: 100%; display: flex;">
           <td style="display: flex; width: 50%;">
-            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/NpmRunTheWorldNed.gif" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/coderGreen.gif" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
         </td>
     </tr>
 </table>
@@ -51,6 +51,15 @@ When I’m not coding, I’m exploring ways to innovate, inspire, and connect wi
 ---
 
 Feel free to explore my repositories and projects. Your feedback and collaboration are always welcome! 🌟
+
+
+<table align="center">
+    <tr style="height: 100%; display: flex;">
+          <td style="display: flex; width: 50%;">
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/NpmRunTheWorldNed.gif" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
+        </td>
+    </tr>
+</table>
 
 
 ### 🌟 Skills 
