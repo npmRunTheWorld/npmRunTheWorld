@@ -19,14 +19,6 @@ Welcome to my digital workspace! I'm a seasoned **Full Stack Engineer**, and lif
 
 > *"Technology isn’t just about solving problems; it’s about anticipating them with wisdom and designing systems that inspire confidence in the future."*
 
-<table align="center">
-    <tr style="height: 100%; display: flex;">
-          <td style="display: flex; width: 50%;">
-            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/fixingbugInprod.gif" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
-        </td>
-    </tr>
-</table>
-
 ---
 
 ### My Toolbox
@@ -35,6 +27,14 @@ Welcome to my digital workspace! I'm a seasoned **Full Stack Engineer**, and lif
 - **DevOps**: Docker, NGINX, Vercel, GCP, Digital Ocean
 - **Database Technologies**: PostgreSQL, MySQL, MongoDB, Sanity
 ---
+
+<table align="center">
+    <tr style="height: 100%; display: flex;">
+          <td style="display: flex; width: 50%;">
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/fixingbugInprod.gif" alt="NpmRunTheWorld" style="height: 500px; object-fit: cover; width: 500px;"/>
+        </td>
+    </tr>
+</table>
 
 ### Highlights
 - **CTO at Roshoon**: Leading the development of cutting-edge fintech software while mentoring engineering teams and shaping architectural standards.
