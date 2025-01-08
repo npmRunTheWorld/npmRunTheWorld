@@ -1,7 +1,7 @@
 <table align="center">
     <tr style="height: 100%; display: flex;">
           <td style="display: flex; width: 50%;">
-            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/npmRunTheWorld.gif" alt="ducky" style="height: 500px; object-fit: cover; width: 500px;"/>
+            <img src="https://github.com/acej0k3r/acej0k3r/blob/main/videos/npmRunTheWorldNed.gif" alt="ducky" style="height: 500px; object-fit: cover; width: 500px;"/>
         </td>
     </tr>
 </table>
