@@ -16,11 +16,9 @@ Welcome to my digital workspace! I'm a seasoned **Full Stack Engineer**, and lif
 
 ### 🔧 My Toolbox
 - **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Frameworks**: React, Vue 3, Nuxt, Next.js, Laravel
-- **DevOps**: Docker, NGINX, Vercel, GCP, Azure
-- **Other Tools**: Tailwind, RESTful API, PineScript
+- **Frameworks**: React, Vue 3, Nuxt, Next.js, Laravel, Sass
+- **DevOps**: Docker, NGINX, Vercel, GCP, Digital Ocean
 - **Database Technologies**: PostgreSQL, MySQL, MongoDB, Sanity
-
 ---
 
 ### 🌟 Highlights
